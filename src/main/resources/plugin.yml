@@ -1,0 +1,8 @@
+name: FreezePlugin
+version: '${project.version}'
+main: me.sialim.freezeplugin.FreezePlugin
+api-version: '1.19'
+commands:
+  freeze:
+    description: Freezes the player.
+    usage: /<command> <player>
